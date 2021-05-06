@@ -71,7 +71,7 @@ Demo Link - https://www.youtube.com/watch?v=RyVen94LiUk&t=14s
 * Python
 * Tensorflow
 * Keras
-* Pytorch
+* OpenCV
 * Heroku
 
 ## Future Patches
